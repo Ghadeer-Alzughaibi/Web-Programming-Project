@@ -1,0 +1,77 @@
+.header{
+    background-image: url(images/header1.jpg);
+    width: 100%;
+    height :300px;
+    display: block;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-origin: border-box;
+    background-position:center;
+    border:5px;
+       }
+
+body  {
+    background-color:#F9F7F7;
+    margin=0;
+          } 
+     
+        .copy  { color: #9C8B58;
+                   font-size: 20px;
+           font-weight: bolder;
+                     width: 100%;
+                     padding: 60px 0px;
+                     text-align: center;
+            margin-top:200px;
+              }
+ 
+         .ha {    color:#9C8B58;
+                  font-family: Agency FB;
+                  font-size: 30px;
+                  position: center;
+                  
+                
+            }
+
+            .m1  {  font-weight: bold;
+                position: absolute;
+                top: -75px;
+                left: -25px;
+                text-align:center;
+             
+        }
+
+        .m2 {font-weight: bold;
+                text-align: center;
+				margin-top: 100px;
+                margin-bottom: 50px;
+                
+        }
+        
+        .menu {
+            margin-top: 9%;
+            width: 900px;
+            font-family: sans-serif
+            
+        }
+        
+     
+        .menu li {
+            display: block;
+            width: 100px;
+            float: left;
+            margin-left: 2px;
+            border: 1px; 
+        }
+        .menu a {
+            display: block;
+            padding: 3px;
+            text-decoration: none;
+            color: #9C8B58;
+font-size: 11pt;
+        }
+
+        .menu a:hover { background-color: #EFE3C1;
+                        color: #3D2F09;
+
+            
+        }
